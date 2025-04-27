@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jinadit Jantaraka</h1>
-<h3 align="center">I graduated with a Computer Science degree from Sakon Nakhon Rajabhat University. I interned at National Telecom Public Company Limited. I have knowledge of programming and knowledge of MVC architecture. I am ready to develop my skills and find new knowledge to help the project succeed as planned.</h3>
+<h1 align="center">Hi 👋, I'm Jinadit Chantharakha</h1>
+<h3 align="center">I graduated with a degree in Computer Science from Sakon Nakhon Rajabhat University.
+I have a strong foundation in programming and a good understanding of the MVC architecture.
+I am eager to continue developing my skills, acquiring new knowledge, and contributing to the success of future projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domlimited&label=Profile%20views&color=0e75b6&style=flat" alt="domlimited" /> </p>
 
