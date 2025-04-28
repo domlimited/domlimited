@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jinadit Chantharakha</h1>
+<h1 align="center">Hi 👋, I'm Jinadit Jantaraka</h1>
 <h3 align="center">I graduated with a degree in Computer Science from Sakon Nakhon Rajabhat University.
 I have a strong foundation in programming and a good understanding of the MVC architecture.
 I am eager to continue developing my skills, acquiring new knowledge, and contributing to the success of future projects.</h3>
