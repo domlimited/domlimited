@@ -7,7 +7,7 @@ I am eager to continue developing my skills, acquiring new knowledge, and contri
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domlimited" alt="domlimited" /></a> </p>
 
-- 🔭 I’m currently working on **Job Acceptance System**
+- 🔭 I’m currently diving into **AI** by running LLaMA models from Hugging Face with llama.cpp for local inference experiments
 
 - 🌱 I’m currently learning **Angular**
 
