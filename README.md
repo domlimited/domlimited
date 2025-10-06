@@ -63,7 +63,7 @@ My-Project/
 ├── 2025/
 │   ├── Job Acceptance System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
-│   │   → This web application intends to hire a contractor to inspect and maintain the network cables from the terminal cabinet (SDP / ODP) to the customer's terminal equipment for Datacom, Broadband internet and IP-Phone services. The procurement is done by price negotiation. It is a procurement from a subsidiary company or a joint venture company with the goal of successful work and the details appear according to the technical requirements.
+│   │   → This web application intends to hire a contractor to inspect and maintain the network cables from the terminal cabinet (SDP / ODP) to the customer terminal equipment for Datacom, Broadband internet and IP-Phone services. The procurement is done by price negotiation. It is a procurement from a subsidiary company or a joint venture company with the goal of successful work and the details appear according to the technical requirements.
 │   │   → Developed by using SQLServer with Laravel, Tailwind Framework.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
