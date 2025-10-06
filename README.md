@@ -13,9 +13,9 @@ I am eager to continue developing my skills, acquiring new knowledge, and contri
 
 - 📫 How to reach me **sopita.arpaengpan@gmail.com**
 
-### Education
+### Education (2017 - 2021)
   - Sakon Nakhon Rajabhat University
-  - Graduation Year: 2017
+  - Computer Science
 
 ### Project Timeline Overview
 ```bash
@@ -27,7 +27,7 @@ My-Project/
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 ├── 2021/
 │   ├── Installation System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
@@ -35,7 +35,7 @@ My-Project/
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 ├── 2022/
 │   ├── Inventory System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
@@ -43,7 +43,7 @@ My-Project/
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 ├── 2023/
 │   ├── Electronic Document Management System (FE, BE)
 │   │   → This project is designed for government agencies such as provincial administrative organizations, etc.
@@ -51,7 +51,7 @@ My-Project/
 │   │   → Developed by using MySQL with Laravel, Tailwind Framework.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 ├── 2024/
 │   ├── Animal hospital System (FE, BE)
 │   │   → This project is designed for an pakkret animal hospital.
@@ -59,7 +59,7 @@ My-Project/
 │   │   → Developed using MySQL, Prisma with NextJs, NestJs, Tailwind Framework.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 ├── 2025/
 │   ├── Job Acceptance System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
@@ -73,7 +73,7 @@ My-Project/
 │   │   → Developed using MySQL, Prisma, React, NestJS, and TailwindCSS frameworks.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-
+│
 └── 2026/
 │   └── (Waiting for new projects… 🚀)
 ```
