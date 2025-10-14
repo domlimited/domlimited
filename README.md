@@ -50,6 +50,17 @@ My-Project/
 │   │   → Developed by using MySQL with Laravel, Tailwind Framework.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
+│   ├── Commencement SDU System (FE, BE)
+│   │   → A web application developed for Suan Dusit University to facilitate online registration for the royal commencement ceremony.
+│   │   → The system allows students and graduates to register efficiently and manage their participation details online.
+│   │   → Developed using MySQL with Laravel and TailwindCSS frameworks.
+│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
+│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
+│   ├── Portfolio (FE)
+│   │   → A personal web application developed to showcase my projects, skills, and professional experience as a web developer.
+│   │   → Developed using React and TailwindCSS frameworks.
+│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
+│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 ├── 2024/
 │   ├── Animal hospital System (FE, BE)
@@ -58,12 +69,23 @@ My-Project/
 │   │   → Developed using MySQL, Prisma with NextJs, NestJs, Tailwind Framework.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
-│
+│   ├── ER Wanon Hospital System (FE, BE)
+│   │   → A web application developed for Wanon Niwat Hospital to support emergency room (ER) nursing record management and reporting.
+│   │   → The system enables efficient data recording and seamlessly integrates with the hospital’s HIS for accurate information transfer.
+│   │   → Developed using React and TailwindCSS frameworks.
+│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
+│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
+
 ├── 2025/
 │   ├── Job Acceptance System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
 │   │   → This web application intends to hire a contractor to inspect and maintain the network cables from the terminal cabinet (SDP / ODP) to the customer terminal equipment for Datacom, Broadband internet and IP-Phone services. The procurement is done by price negotiation. It is a procurement from a subsidiary company or a joint venture company with the goal of successful work and the details appear according to the technical requirements.
 │   │   → Developed by using SQLServer with Laravel, Tailwind Framework.
+│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
+│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
+│   ├── Rock Paper Scissors (FE, BE)
+│   │   → A web-based Rock Paper Scissors game built to experiment with AI by running LLaMA models from Hugging Face using llama.cpp for local inference.
+│   │   → Developed with LLaMA, Google Apps Script, React, Node.js, and TailwindCSS frameworks.
 │   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
 │   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │   ├── ERP Store Mate (FE, BE)
