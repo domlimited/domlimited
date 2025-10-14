@@ -1,7 +1,5 @@
-### Hi 👋, I'm Jinadit Jantaraka</h1>
-I graduated with a degree in Computer Science from Sakon Nakhon Rajabhat University.
-I have a strong foundation in programming and a good understanding of the MVC architecture.
-I am eager to continue developing my skills, acquiring new knowledge, and contributing to the success of future projects.</h3>
+### Hi 👋, I'm JINADIT JANTARAKA
+Highly motivated Full-Stack Developer with a strong foundation in programming and MVC architecture, eager to leverage expertise in front-end and back-end development to contribute to innovative projects. Proficient in a wide array of technologies including JavaScript, PHP, SQL, Laravel, Next.js, React, and Node.js (Nest.js), with a proven track record of developing comprehensive web applications from concept to deployment. Seeking to continuously develop skills and acquire new knowledge to drive project success.
 
 - 🔭 I’m currently diving into **AI** by running LLaMA models from Hugging Face with llama.cpp for local inference experiments
 
@@ -16,6 +14,7 @@ I am eager to continue developing my skills, acquiring new knowledge, and contri
 ### Education (2017 - 2021)
   - Sakon Nakhon Rajabhat University
   - Computer Science
+  - GPA: 3.0/4.0
 
 ### Project Timeline Overview
 ```bash
