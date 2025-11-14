@@ -24,76 +24,54 @@ My-Project/
 │   │   → This project is designed for National Telecom Public Company Limited.
 │   │   → The web application is mainly intended to manage and distribute repair/renovation work to contractors located in service centers in the province.
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 ├── 2021/
 │   ├── Installation System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
 │   │   → This web application is primarily intended to manage installation work assignments to contractors located in service centers across the province.
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 ├── 2022/
 │   ├── Inventory System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
 │   │   → This web application is mainly intended to manage all the equipment used in internet installation and repair work, related to the system, dispatch installation work and dispatch repair/improvement work.
 │   │   → Developed by using HTML, CSS, JavaScript, MySQL and PHP with Bootstrap Framework using AdminLTE Template.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 ├── 2023/
 │   ├── Electronic Document Management System (FE, BE)
 │   │   → This project is designed for government agencies such as provincial administrative organizations, etc.
 │   │   → This web application is mainly intended to receive and send documents within the organization, store documents for forwarding, ordering and signing documents, or sending them into the circular system with signed acknowledgement through the system via electronic means. It can limit access rights to documents and support the operations of the agency.
-│   │   → Developed by using MySQL with Laravel, Tailwind Framework.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
+│   │   → Developed using MySQL with Laravel and TailwindCSS frameworks.
 │   ├── Commencement SDU System (FE, BE)
 │   │   → A web application developed for Suan Dusit University to facilitate online registration for the royal commencement ceremony.
 │   │   → The system allows students and graduates to register efficiently and manage their participation details online.
 │   │   → Developed using MySQL with Laravel and TailwindCSS frameworks.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │   ├── Portfolio (FE)
 │   │   → A personal web application developed to showcase my projects, skills, and professional experience as a web developer.
 │   │   → Developed using React and TailwindCSS frameworks.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 ├── 2024/
 │   ├── Animal hospital System (FE, BE)
 │   │   → This project is designed for an pakkret animal hospital.
 │   │   → This web application is mainly intended to manage the entire system in the veterinary hospital, such as medical records, OPD, IPD, point of sale, pharmacy, personnel, drug storage, purchasing and reporting, including keeping history of animals that come for treatment.
 │   │   → Developed using MySQL, Prisma with NextJs, NestJs, Tailwind Framework.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │   ├── ER Wanon Hospital System (FE, BE)
 │   │   → A web application developed for Wanon Niwat Hospital to support emergency room (ER) nursing record management and reporting.
 │   │   → The system enables efficient data recording and seamlessly integrates with the hospital’s HIS for accurate information transfer.
 │   │   → Developed using React and TailwindCSS frameworks.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 
 ├── 2025/
 │   ├── Job Acceptance System (FE, BE)
 │   │   → This project is designed for National Telecom Public Company Limited.
 │   │   → This web application intends to hire a contractor to inspect and maintain the network cables from the terminal cabinet (SDP / ODP) to the customer terminal equipment for Datacom, Broadband internet and IP-Phone services. The procurement is done by price negotiation. It is a procurement from a subsidiary company or a joint venture company with the goal of successful work and the details appear according to the technical requirements.
 │   │   → Developed by using SQLServer with Laravel, Tailwind Framework.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │   ├── Rock Paper Scissors (FE, BE)
 │   │   → A web-based Rock Paper Scissors game built to experiment with AI by running LLaMA models from Hugging Face using llama.cpp for local inference.
 │   │   → Developed with LLaMA, Google Apps Script, React, Node.js, and TailwindCSS frameworks.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │   ├── ERP Store Mate (FE, BE)
 │   │   → This project is developed for Store Mate Co., Ltd., a company specializing in steel production and distribution.
 │   │   → The ERP system is designed to manage core business processes, including inventory, purchasing, sales, production tracking, and employee management.
 │   │   → Developed using MySQL, Prisma, React, NestJS, and TailwindCSS frameworks.
-│   │   → Responsible for database design, system development, and testing to ensure smooth business workflow and data accuracy.
-│   │   → Fully 100% responsive and optimized for both desktop and mobile devices.
 │
 └── 2026/
 │   └── (Waiting for new projects… 🚀)
