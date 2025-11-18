@@ -5,11 +5,7 @@ Highly motivated Full-Stack Developer with a strong foundation in programming an
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-tawny-18.vercel.app/](https://portfolio-ten-tawny-18.vercel.app/)
-
 - 💬 Ask me about **Laravel,React,NextJs,NestJs**
-
-- 📫 How to reach me **sopita.arpaengpan@gmail.com**
 
 ### Education (2017 - 2021)
   - Sakon Nakhon Rajabhat University
