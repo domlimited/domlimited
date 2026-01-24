@@ -1,5 +1,5 @@
 ### Hi 👋, I'm JINADIT JANTARAKA
-Highly motivated Full-Stack Developer with a strong foundation in programming and MVC architecture, eager to leverage expertise in front-end and back-end development to contribute to innovative projects. Proficient in a wide array of technologies including JavaScript, PHP, SQL, Laravel, Next.js, React, and Node.js (Nest.js), with a proven track record of developing comprehensive web applications from concept to deployment. Seeking to continuously develop skills and acquire new knowledge to drive project success.
+Highly motivated Full-Stack Developer with a strong foundation in MVC architecture and a passion for building innovative, scalable web applications. Proficient in JavaScript, TypeScript, PHP, and SQL, with extensive experience in modern frameworks including React, Next.js, Laravel, Angular, Vue.js, Nuxt, and Nest.js. Proven track record of delivering comprehensive projects from concept to deployment. Dedicated to continuous learning and leveraging technical expertise to drive project success.
 
 - 🔭 I’m currently diving into **AI** by running LLaMA models from Hugging Face with llama.cpp for local inference experiments
 
