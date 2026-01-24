@@ -3,9 +3,9 @@ Highly motivated Full-Stack Developer with a strong foundation in programming an
 
 - 🔭 I’m currently diving into **AI** by running LLaMA models from Hugging Face with llama.cpp for local inference experiments
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Laravel,React,NextJs,NestJs**
+- 💬 Ask me about **React, Next.js, Laravel, Angular, Vue.js, Nuxt and Nest.js**
 
 ### Education (2017 - 2021)
   - Sakon Nakhon Rajabhat University
