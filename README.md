@@ -58,8 +58,13 @@ My-Project/
 │   │   → This project is developed for Store Mate Co., Ltd., a company specializing in steel production and distribution.
 │   │   → The ERP system is designed to manage core business processes, including inventory, purchasing, sales, production tracking, and employee management.
 │
-└── 2026/
+├── 2026/
+│   ├── Super Vest (FE, BE)
+│   │   → This project is a multi-site veterinary hospital information system (HIS), designed to support operations across multiple branches.
+│   │   → The system covers key modules including patient queue management, OPD examination records, pet and customer profiles, appointment scheduling, doctor scheduling, point of sale, inventory management, and reporting.
+│   │   → I participated in the development during Phase 1.
 │   └── (Waiting for new projects… 🚀)
+└── 2027/
 ```
 
 ### Skills
